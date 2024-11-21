@@ -1,0 +1,5 @@
+*.mp4
+*.tex
+*.svg
+__pycache__/
+*/media/
